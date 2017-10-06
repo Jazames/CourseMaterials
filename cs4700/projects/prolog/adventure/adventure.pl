@@ -128,7 +128,7 @@ name(coat,"Dr. Sundberg's lab coat").
 name(common_room,"Dorm common room").
 name(computer_lab,"Student Computer Lab").
 name(elevator,"Elevator").
-name(engr,"ENGR The Main Engineering Building).
+name(engr,"ENGR The Main Engineering Building").
 name(potion,"potion").
 name(eslc_north,"Eccels Science Learning Center").
 name(eslc_south,"Eccels Science Learning Center").
